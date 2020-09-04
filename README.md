@@ -12,6 +12,8 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
 * 👯 Looking for opportunities to join as an intern/full time in web developmenfields.
 
 
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 <details>
   <summary> 
     👉To Connect with me
