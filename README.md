@@ -41,7 +41,7 @@ ___
  </details>
  
  #### **My Github Stats**
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoniDev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoniDev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&line_height=20)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoniDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
