@@ -7,10 +7,10 @@ in web development. My aim is to be a *fullstack* developer. I learn **Django**,
 
 
 * 👨 I am actively learning and growing my skillset in Django and Vuejs. I am also interested in learning **Flutter** for mobile development
-* 🔭 I’m currently working on ... Instagram clone with Django and Vue
-* 🌱 I’m currently learning ...Vuejs, Django Rest Framework
-* 👯 I’m looking to collaborate on ...Django, Vue
-* 🤔 I’m looking for help with ...AWS
-* 💬 Ask me about ...Anything
-* 📫 How to reach me: ...dabduvokhidov@gmail.com
-* 😄 Pronouns: ...
+* 🔭 Open for collaboration about Web Developement
+* 🌱 Willing to contribute to open source projects
+* 👯 Looking for opportunities to join as an intern/full time in web developmenfields.
+
+## Skills
+___
+https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
