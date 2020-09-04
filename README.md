@@ -13,10 +13,8 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
 
 
 <details>
-  <summary>
-    
-    **👉To Connect with me**
-  
+  <summary> 
+    👉To Connect with me
   </summary>
   
    <br /> 
