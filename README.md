@@ -2,7 +2,7 @@
 
 ___
 
-I am a developer who is passionate about coding and web development. Few tech that I enjoy working is Pytohn, JavaScript. I am actively looking for opportunities
+I am a developer who is passionate about coding and web development. Few tech that I enjoy working is **Python**, **JavaScript**. I am actively looking for opportunities
 in web development. My aim is to be a *fullstack* developer. I learn **Django**, **Django Rest Framework** and currently learning **Vuejs**.
 
 
