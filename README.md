@@ -39,5 +39,8 @@ ___
    <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
  </details>
+ 
+ #### **My Github Stats**
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?DoniDev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
