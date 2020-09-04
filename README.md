@@ -25,6 +25,7 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
 
 ___
 
+##
 <details>
   <summary> 
     🚀Skills
