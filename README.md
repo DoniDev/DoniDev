@@ -12,8 +12,9 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
 * 👯 Looking for opportunities to join as an intern/full time in web developmenfields.
 
 <details>
-  <summary>#### 👉To Connect with me</summary>
+  <summary>👉To Connect with me</summary>
   
+  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gayratovic77/) 
   
 </details>
  
