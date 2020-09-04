@@ -12,7 +12,7 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
 * 👯 Looking for opportunities to join as an intern/full time in web developmenfields.
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://instagram.fakx2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/118823161_177754920472928_3745201405816894802_n.jpg?_nc_ht=instagram.fakx2-1.fna.fbcdn.net&_nc_ohc=qMV-AjplXlAAX89UYBA&oh=acb11b7a48caa9958422c43ae518bc3f&oe=5F7BEB31 "Header")](https://some-url.dev/)
 
 <details>
   <summary> 
