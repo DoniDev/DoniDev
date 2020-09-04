@@ -14,6 +14,6 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
 ### Skills
 ___
 
-### Connect with me 
+##### Connect with me 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gayratovic77/)
 
