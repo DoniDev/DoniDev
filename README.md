@@ -20,7 +20,7 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
   <br />
   
  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gayratovic77/) 
- [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />(https://mail.google.com/mail/u/dabduvokhidov@gmail.com) 
+
 </details>
 
 ___
