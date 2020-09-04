@@ -23,4 +23,17 @@ in web development. My aim is to be a *fullstack* developer. I learnt **Django**
    
 </details>
 
+___
+
+<details>
+  <summary> 
+    🚀Skills
+  </summary>
+  
+   <br /> 
+   
+   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" 
+
+</details>
+
 
