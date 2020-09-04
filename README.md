@@ -6,8 +6,8 @@ I am a developer who is passionate about coding and web development. Few tech th
 in web development. My aim is to be a *fullstack* developer. I learnt **Django**, **Django Rest Framework** and currently learning **Vuejs**.
 
 
-* 👨 #### I am actively learning and growing my skillset in Django and Vuejs. I am also interested in learning **Flutter** for mobile development
-* 🔭 #### Open for collaboration about Web Developement
+* 👨 I am actively learning and growing my skillset in Django and Vuejs. I am also interested in learning **Flutter** for mobile development
+* 🔭 Open for collaboration about Web Developement
 * 🌱 Willing to contribute to open source projects
 * 👯 Looking for opportunities to join as an intern/full time in web developmenfields.
 
